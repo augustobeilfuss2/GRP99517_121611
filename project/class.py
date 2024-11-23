@@ -4,6 +4,10 @@ import seaborn as sns
 import sys
 from data import init_object
 
+def __init__(self, df):
+        self.df=df  def __init__(self, df):
+        self.df=df
+
 class valuesDataFrame:
     def __init__(self, df):
         self.df=df
