@@ -8,9 +8,6 @@ Manipulação de Arquivos (Caso utilizar no trabalho manipulação de arquivos n
 Orientação a Objetos
 Manipulação de banco de dados
 Análise e visualização de dados
-Coleta de dados online (Caso utilizar no trabalho extração/obtenção os dados de forma online)
-  - Data/Web Scraping
-  - APIs
 Técnicas de Manipulação de dados
   - Inspeção2
   - Limpeza
